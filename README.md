@@ -1,6 +1,6 @@
-# gfg_test_app
+# ClipPath widget in Flutter
 
-A new Flutter project.
+Custom Shapes with Custom Clipper and ClipPath widget in Flutter
 
 ## Getting Started
 
